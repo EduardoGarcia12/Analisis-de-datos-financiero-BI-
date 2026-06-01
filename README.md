@@ -60,15 +60,19 @@ ademas de implementar el proceso ETL para nuestro archivo Excel.
 ### Dashboard en Power BI
 
 <p align="center">
-  <img src="dashboard/actividadcomun.jpg" width="900"/>
+  <img src="dashboard_finanzas/monto_pais_cate.png" width="900"/>
 </p>
 
 <p align="center">
-  <img src="dashboard/foliosprofe.jpg" width="900"/>
+  <img src="dashboard_finanzas/siete_clientes.jpg" width="900"/>
 </p>
 
 <p align="center">
-  <img src="dashboard/usuariosconstantes.jpg" width="900"/>
+  <img src="dashboard_finanzas/tasa_monto.jpg" width="900"/>
+</p>
+
+<p align="center">
+  <img src="ticket.jpg" width="900"/>
 </p>
 
 ---
