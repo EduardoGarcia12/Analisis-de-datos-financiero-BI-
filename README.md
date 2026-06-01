@@ -23,7 +23,7 @@ ademas de implementar el proceso ETL para nuestro archivo Excel.
 ## 🧱 Arquitectura del proyecto
 
 <p align="center">
-  <img src="grosery.png" width="900"/>
+  <img src="arquitectura_bi_finanzas.jpg" width="900"/>
 </p>
 
 ---
