@@ -11,14 +11,13 @@ ademas de implementar el proceso ETL para nuestro archivo Excel.
 ## 🛠️ Tecnologías utilizadas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,power bi, excel" />
+  <img src="https://skillicons.dev/icons?i=python,powerbi" />
 </p>
 
 - Python
 - Power BI
 - Excel 
-- Pandas  
-
+- Pandas
 ---
 
 ## 🧱 Arquitectura del proyecto
