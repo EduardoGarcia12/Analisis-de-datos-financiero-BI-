@@ -86,7 +86,7 @@ ademas de implementar el proceso ETL para nuestro archivo Excel.
 ## 📈 Resultados obtenidos
 
 - Logramos detectar posibles fraudes al filtrar por clientes nuestros resultados en funcion de sus transacciones. 
-- En particular para el banco Banamex en la categoria de Belleza se observa una tasa y monto de fraude muy baja. 
+- En particular para el banco Banamex en la categoria de Belleza se observa una tasa de fraude muy baja pero un monto muy alto. 
 - Se obtuvieron con éxito como cambian los indicadores clave de desempeño a lo largo del año, así pudiendo identificar meses donde se presentan mayores posibles fraudes.  
 
 ---
