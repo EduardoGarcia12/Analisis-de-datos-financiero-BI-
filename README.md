@@ -72,7 +72,7 @@ ademas de implementar el proceso ETL para nuestro archivo Excel.
 </p>
 
 <p align="center">
-  <img src="ticket.jpg" width="900"/>
+  <img src="dashboard_finanzas/ticket.jpg" width="900"/>
 </p>
 
 ---
